@@ -1,0 +1,660 @@
+﻿  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_CudaLib.cu.obj
+  CudaLib.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  CudaLib.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_FeatureVolume.cu.obj
+  FeatureVolume.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  FeatureVolume.cu
+  
+tmpxft_00001208_00000000-8_FeatureVolume.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<8,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+tmpxft_00001208_00000000-8_FeatureVolume.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<4,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_ICPFrame2Frame.cu.obj
+  ICPFrame2Frame.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  ICPFrame2Frame.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_KinfuTracker.cu.obj
+  KinfuTracker.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(217): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(222): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(231): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\index_testing.h(248): warning : variable "p1" was set but never used
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  KinfuTracker.cu
+  
+tmpxft_00002ec8_00000000-8_KinfuTracker.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<8,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+tmpxft_00002ec8_00000000-8_KinfuTracker.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<4,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_MarchingCubes.cu.obj
+  MarchingCubes.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(217): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(222): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(231): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\index_testing.h(248): warning : variable "p1" was set but never used
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+  MarchingCubes.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_Normal.cu.obj
+  Normal.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+  Normal.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_RayCaster.cu.obj
+  RayCaster.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  RayCaster.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Debug/Rgbd_generated_Volume.cu.obj
+  Volume.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+  Volume.cu
+  
+  Building Custom Rule C:/Users/Hengyuan/Documents/Chris/rgbd_mapping_and_relocalisation/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\build\CMakeFiles\generate.stamp is up-to-date.
+  Camera.cpp
+c:\libraries\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  CubicGrids.cpp
+c:\libraries\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(495): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(525): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(565): warning C4244: '=': conversion from 'std::numeric_limits<int>::_Ty' to 'float', possible loss of data
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(583): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(498): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(500): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(502): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(503): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(504): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(505): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(528): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(530): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(532): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(533): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(534): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(535): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(585): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(588): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(589): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(590): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(591): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\CubicGrids.cpp(832): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GLUtil.cpp
+  KinfuTracker.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/detail/error_category.inl(102): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\thrust/system/cuda/detail/bulk/detail/pointer_traits.hpp(55): warning C4800: 'unsigned int': forcing value to bool 'true' or 'false' (performance warning)
+c:\libraries\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\hengyuan\downloads\openni2-master\include\Win32/OniPlatformWin32.h(39): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+  c:\libraries\freeglut\include\gl\freeglut_std.h(58): note: see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\KinfuTracker.cpp(552): warning C4101: 'fS2': unreferenced local variable
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\KinfuTracker.cpp(1338): warning C4804: '<': unsafe use of type 'bool' in operation
+  RGBDFrame.cpp
+c:\libraries\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\RGBDFrame.cpp(579): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\hengyuan\documents\chris\rgbd_mapping_and_relocalisation\rgbd\GLUtil.hpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\RGBDFrame.cpp(492): note: see reference to function template instantiation 'void btl::gl_util::CGLUtil::renderDisk<float>(const T &,const T &,const T &,const T &,const T &,const T &,const unsigned char *,const T &,bool)' being compiled
+          with
+          [
+              T=float
+          ]
+  VideoSourceKinect.cpp
+c:\users\hengyuan\downloads\openni2-master\include\Win32/OniPlatformWin32.h(39): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+  c:\libraries\freeglut\include\gl\freeglut_std.h(58): note: see previous definition of 'WIN32_LEAN_AND_MEAN'
+c:\libraries\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\rgbd\VideoSourceKinect.cpp(211): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+Rgbd_generated_CudaLib.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_CudaLib.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_FeatureVolume.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_FeatureVolume.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_ICPFrame2Frame.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_ICPFrame2Frame.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_KinfuTracker.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_KinfuTracker.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_MarchingCubes.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_MarchingCubes.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_Normal.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_Normal.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_RayCaster.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_RayCaster.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+Rgbd_generated_Volume.cu.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+Rgbd_generated_Volume.cu.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: bool __cdecl std::ios_base::good(void)const " (?good@ios_base@std@@QEBA_NXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: int __cdecl std::ios_base::flags(void)const " (?flags@ios_base@std@@QEBAHXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(void)const " (?width@ios_base@std@@QEBA_JXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __int64 __cdecl std::ios_base::width(__int64)" (?width@ios_base@std@@QEAA_J_J@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(bool)" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned int)" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __cdecl std::_Locinfo::_Locinfo(char const *)" (??0_Locinfo@std@@QEAA@PEBD@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __cdecl std::_Locinfo::~_Locinfo(void)" (??1_Locinfo@std@@QEAA@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: struct lconv const * __cdecl std::_Locinfo::_Getlconv(void)const " (?_Getlconv@_Locinfo@std@@QEBAPEBUlconv@@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char const * __cdecl std::_Locinfo::_Getfalse(void)const " (?_Getfalse@_Locinfo@std@@QEBAPEBDXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char const * __cdecl std::_Locinfo::_Gettrue(void)const " (?_Gettrue@_Locinfo@std@@QEBAPEBDXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char const * __cdecl std::_Yarn<char>::c_str(void)const " (?c_str@?$_Yarn@D@std@@QEBAPEBDXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: __cdecl std::locale::facet::facet(unsigned __int64)" (??0facet@locale@std@@IEAA@_K@Z) already defined in Rgbd_generated_KinfuTracker.cu.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: virtual __cdecl std::locale::facet::~facet(void)" (??1facet@locale@std@@MEAA@XZ) already defined in Rgbd_generated_KinfuTracker.cu.obj
+libcpmt.lib(locale0.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(locale0.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(locale0.obj) : error LNK2005: "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPEAV_Facet_base@1@@Z) already defined in msvcprtd.lib(locale0_implib.obj)
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,char const *)" (?_Locinfo_ctor@_Locinfo@std@@SAXPEAV12@PEBD@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_dtor(class std::_Locinfo *)" (?_Locinfo_dtor@_Locinfo@std@@SAXPEAV12@@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static class std::locale const & __cdecl std::locale::classic(void)" (?classic@locale@std@@SAAEBV12@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(cout.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(cout.obj) : error LNK2005: "protected: __cdecl std::basic_ios<char,struct std::char_traits<char> >::basic_ios<char,struct std::char_traits<char> >(void)" (??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::basic_ostream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "public: virtual __cdecl std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "public: virtual __cdecl std::basic_ostream<char,struct std::char_traits<char> >::~basic_ostream<char,struct std::char_traits<char> >(void)" (??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "public: virtual __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "public: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Lock(void)" (?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "public: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Unlock(void)" (?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::eback(void)const " (?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::egptr(void)const " (?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::epptr(void)const " (?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gbump(int)" (?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::imbue(class std::locale const &)" (?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pbump(int)" (?pbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pptr(void)const " (?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setbuf(char *,__int64)" (?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setg(char *,char *,char *)" (?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *)" (?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD0@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::showmanyc(void)" (?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sync(void)" (?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::uflow(void)" (?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsgetn(char *,__int64)" (?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(cout.obj) : error LNK2005: "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsputn(char const *,__int64)" (?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(iosptrs.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(iosptrs.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(locale.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(locale.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(locale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlock.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(xlock.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(xlock.obj) : error LNK2005: "public: __cdecl std::_Lockit::_Lockit(int)" (??0_Lockit@std@@QEAA@H@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xlock.obj) : error LNK2005: "public: __cdecl std::_Lockit::~_Lockit(void)" (??1_Lockit@std@@QEAA@XZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(ios.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(ios.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(xthrow.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(xthrow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(xthrow.obj) : error LNK2005: "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xthrow.obj) : error LNK2005: "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xthrow.obj) : error LNK2005: "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPEBD@Z) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(wlocale.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(wlocale.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(xlocale.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(xlocale.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(xlocale.obj) : error LNK2005: "protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ) already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(xdateord.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(xdateord.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(xwctomb.obj) : error LNK2005: _Getcvt already defined in msvcprtd.lib(MSVCP140D.dll)
+libcpmt.lib(winapisupp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(winapisupp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(winapinls.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(winapinls.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Camera.obj
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MDd_DynamicDebug' in Camera.obj
+     Creating library C:/Users/Hengyuan/Documents/Chris/rgbd_mapping_and_relocalisation/build/Debug/Rgbdd.lib and object C:/Users/Hengyuan/Documents/Chris/rgbd_mapping_and_relocalisation/build/Debug/Rgbdd.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\build\Debug\Rgbdd.dll : fatal error LNK1169: one or more multiply defined symbols found

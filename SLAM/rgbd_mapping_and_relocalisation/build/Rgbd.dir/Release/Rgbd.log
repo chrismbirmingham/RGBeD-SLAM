@@ -1,0 +1,472 @@
+﻿  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_CudaLib.cu.obj
+  CudaLib.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  CudaLib.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_FeatureVolume.cu.obj
+  FeatureVolume.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  FeatureVolume.cu
+  
+tmpxft_00002ef8_00000000-8_FeatureVolume.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<8,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+tmpxft_00002ef8_00000000-8_FeatureVolume.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<4,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_ICPFrame2Frame.cu.obj
+  ICPFrame2Frame.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  ICPFrame2Frame.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_KinfuTracker.cu.obj
+  KinfuTracker.cu
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB4220: Waiting for the currently executing task "CustomBuild" to cancel.
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(217): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(222): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(231): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\index_testing.h(248): warning : variable "p1" was set but never used
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB4220: Waiting for the currently executing task "CustomBuild" to cancel.
+  KinfuTracker.cu
+  
+tmpxft_000023a4_00000000-8_KinfuTracker.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<8,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+tmpxft_000023a4_00000000-8_KinfuTracker.cudafe1.stub.c(4): warning C4503: 'thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<InputIterator,OutputIterator,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::tuple<thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::tuple<int,int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::unrelated_systems<T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16>,thrust::random_access_traversal_tag,thrust::detail::tuple_of_iterator_references<thrust::detail::tuple_of_iterator_references<thrust::reference<Element,thrust::pointer<Element,System,thrust::use_default,thrust::use_default>,thrust::use_default>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::detail::tuple_of_iterator_references<thrust::device_reference<T>,int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>,__int64>': decorated name length exceeded, name was truncated
+  
+          with
+  
+          [
+  
+              InputIterator=thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,
+  
+              OutputIterator=thrust::permutation_iterator<thrust::zip_iterator<thrust::tuple<thrust::device_ptr<int>,int *,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::transform_iterator<thrust::system::detail::sequential::radix_sort_detail::bucket_functor<4,int>,thrust::detail::normal_iterator<thrust::pointer<int,thrust::detail::seq_t,thrust::use_default,thrust::use_default>>,thrust::use_default,thrust::use_default>>,
+  
+              T1=thrust::detail::seq_t,
+  
+              T2=thrust::detail::unrelated_systems<thrust::detail::unrelated_systems<thrust::system::cuda::detail::tag,thrust::system::cpp::detail::tag,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,thrust::detail::seq_t,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion,thrust::detail::minimum_type_detail::any_conversion>,
+  
+              T3=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T4=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T5=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T6=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T7=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T8=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T9=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T10=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T11=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T12=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T13=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T14=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T15=thrust::detail::minimum_type_detail::any_conversion,
+  
+              T16=thrust::detail::minimum_type_detail::any_conversion,
+  
+              Element=int,
+  
+              System=thrust::detail::seq_t,
+  
+              T=int
+  
+          ]
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_MarchingCubes.cu.obj
+  MarchingCubes.cu
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB4220: Waiting for the currently executing task "CustomBuild" to cancel.
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(217): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(222): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\lsh_table.h(231): warning : statement is unreachable
+  
+  
+  
+c:\libraries\opencv\build\install\include\opencv2\flann\index_testing.h(248): warning : variable "p1" was set but never used
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::buildMaps" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/stitching/detail/warpers.hpp(213): warning : overloaded virtual function "cv::detail::PlaneWarper::warp" is only partially overridden in class "cv::detail::AffineWarper"
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/videostab/motion_stabilizing.hpp(106): warning : function "cv::videostab::IMotionStabilizer::stabilize(int, const std::vector<cv::Mat, std::allocator<cv::Mat>> &, std::pair<int, int>, cv::Mat *)" is hidden by "cv::videostab::GaussianMotionFilter::stabilize" -- virtual function override intended?
+  
+  
+  
+  MarchingCubes.cu
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB4220: Waiting for the currently executing task "CustomBuild" to cancel.
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_Normal.cu.obj
+  Normal.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+  Normal.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_RayCaster.cu.obj
+  RayCaster.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB4220: Waiting for the currently executing task "CustomBuild" to cancel.
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(70): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+c:/libraries/boost_1_62_0\boost/type_traits/integral_constant.hpp(95): warning : "constexpr" is ignored here in Microsoft mode
+  
+  
+  
+  RayCaster.cu
+  
+  Building NVCC (Device) object CMakeFiles/Rgbd.dir/rgbd/Release/Rgbd_generated_Volume.cu.obj
+  Volume.cu
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:/libraries/opencv/build/install/include\opencv2/core/base.hpp(369): warning : function declared with "noreturn" does return
+  
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB4220: Waiting for the currently executing task "CustomBuild" to cancel.
+  Volume.cu
+  
+  Building Custom Rule C:/Users/Hengyuan/Documents/Chris/rgbd_mapping_and_relocalisation/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Hengyuan\Documents\Chris\rgbd_mapping_and_relocalisation\build\CMakeFiles\generate.stamp is up-to-date.
